@@ -1,0 +1,2 @@
+The act of creating new classes by adding features to existing classes
+is the central behing inheritance. 
